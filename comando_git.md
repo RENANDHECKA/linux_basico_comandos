@@ -2,5 +2,8 @@
 git -v
 
 
-Nome do S.O 
+# Nome do S.O 
 uname 
+
+# Tamanho do diretório 
+ds -ha 
